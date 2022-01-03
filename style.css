@@ -19,11 +19,7 @@ h2{
     width: 50%;
     padding: 2%;
 }
-.first_sec_image
-{
-width: 90%;
-height: 95%;
-}
+
 .link_button{
     text-decoration:none;
     background-image: linear-gradient(orange,tomato);
