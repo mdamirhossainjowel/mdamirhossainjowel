@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .name_color{
     color: orange;
 }
@@ -37,3 +40,18 @@ height: 95%;
     background-repeat: no-repeat;
     background-position: right;
 }
+.Experience_area
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.box_shadow{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 35px orangered;
+}
+
