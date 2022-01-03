@@ -52,6 +52,16 @@ height: 95%;
     margin-right: 5%;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 10px 10px 35px orangered;
+    box-shadow: 10px 10px 30px gray;
 }
 
+#side_color1{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#side_color2{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 94, 0),rgb(217, 255, 0));
+    border-image-slice: 1;
+}
